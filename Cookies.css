@@ -1,0 +1,84 @@
+html, body, h1, h2, h3, h4, h5, p, a, ul, li {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+html {
+    background-color: #FFFFdc; 
+}
+.Simple {
+    color: #ffffff;
+    font-size: 13pt;
+    background-color: #ffa500;
+    padding: 10px 50px 30px 50px;
+}
+a {
+    font-size: 13pt;
+    color: #ffffff;
+    text-decoration-line: none;
+    padding: 7px;
+}
+li {
+    display: inline;
+}
+#Left {
+    float: left;
+}
+#Right {
+    float: right;
+}
+.Distinctboxes {
+    color: #000000;
+    font-size: 20pt;
+    margin: 22px 42px 0;
+}
+.Link-abide {
+    border-radius: 5px;
+    text-align: center;
+    padding: 0 0 4px;
+    background-color: #ffa500;
+}
+.Phase {
+    font-size: 8pt;
+    padding: 8px 0 10px
+}
+#Dashboard {
+    font-size: 20pt;
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 5px;
+    border: 2px #ffa500 solid;
+    border-radius: 5px;
+    float: left;
+    width: 280px;
+}
+#Budget {
+    font-size: 20pt;
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 5px;
+    border: 2px #ffa500 solid;
+    border-radius: 5px;
+    float: left;
+    width: 280px;
+}
+#Checkbooks {
+    font-size: 20pt;
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 5px;
+    border: 2px #ffa500 solid;
+    border-radius: 5px;
+    float: left;
+    width: 280px;
+}
+#Money {
+    font-size: 20pt;
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 5px;
+    border: 2px #ffa500 solid;
+    border-radius: 5px;
+    float: left;
+    width: 280px;
+}
